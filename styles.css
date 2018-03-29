@@ -1,0 +1,11 @@
+.rectangleContainer {
+  height: 200px;
+  width: 1000px;
+}
+.rect {
+  float: left;
+}
+
+.rect {
+  fill: yellow;
+}
